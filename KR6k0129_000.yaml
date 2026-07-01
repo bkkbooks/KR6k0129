@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0129/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分律行事鈔資持記
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T40/T40n1805.xml
+    old_id: T40n1805
+hash: sha256:e1cb5214d326c73337bf50196eb3eb4a8e82d580b939bcec5831ff1288f5b073

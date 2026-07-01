@@ -1,0 +1,568 @@
+canonical_identifier: bkk:krp/KR6k0129/v1
+canonical_location: https://kanripo.org/bkk/KR6k0129/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 四分律行事鈔資持記
+  identifiers:
+    alt_id:
+    - T40n1805
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T40/T40n1805.xml
+    old_id: T40n1805
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 宮
+  label: 宮
+  source_xml_id: wit2
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0129_000.yaml, hash: 'sha256:e1cb5214d326c73337bf50196eb3eb4a8e82d580b939bcec5831ff1288f5b073'}
+  - {seq: 2, filename: KR6k0129_002.yaml, hash: 'sha256:15f1b04654b14914f394acebaef58539190561596c4ba04cd4e7a9adebfce6fc'}
+  - {seq: 3, filename: KR6k0129_003.yaml, hash: 'sha256:d54b5aac4a262b886bfcb88004603ceba36447cfa612c39503d41f46dcf0e783'}
+  - {seq: 4, filename: KR6k0129_004.yaml, hash: 'sha256:20bd5aba257989b5d040e4a08fbc1e7e0e8b0ab355ce2c16f5b377e104ac801c'}
+  - {seq: 5, filename: KR6k0129_005.yaml, hash: 'sha256:31c61f733ff21bf78a0b366f4bc817e83fb7862f56e8b11a1d80d14663aa61da'}
+  - {seq: 6, filename: KR6k0129_006.yaml, hash: 'sha256:23881f693195734e722cb51515c1b2308acbcf03f3e19f5da8317b386ff22aef'}
+  - {seq: 7, filename: KR6k0129_007.yaml, hash: 'sha256:f8950cc7603e6b97bf015558a9f61da50c5c1a750c5d4151e517c38a5be6e192'}
+  - {seq: 8, filename: KR6k0129_008.yaml, hash: 'sha256:6133cdf98f0abe846d622f666e9dd3b5b36a9769213475eddb6b36dcacdf4e5e'}
+  - {seq: 9, filename: KR6k0129_009.yaml, hash: 'sha256:86fbcacf82130577927aa6592976a030f83f5568e0d085b76e4529ff96f6c043'}
+  - {seq: 10, filename: KR6k0129_010.yaml, hash: 'sha256:ab87cd5d92becb6122db4bf9483fa3796d90bf946f28372fa8375a9d0912a4cf'}
+  - {seq: 11, filename: KR6k0129_011.yaml, hash: 'sha256:5c4807be18310d5b914e6150e22e82f73f20ce1abfbe0461699c9cd1f71f3f71'}
+  - {seq: 12, filename: KR6k0129_012.yaml, hash: 'sha256:50ecbd6018dd9b44f8f256fb2a3bf3cb86f63ae6df8accb3cbecbabd2c27e836'}
+  - {seq: 13, filename: KR6k0129_013.yaml, hash: 'sha256:d3d6c3fcce0d149009da31182480295301e12b803d80de4a44462171065bb462'}
+  - {seq: 14, filename: KR6k0129_014.yaml, hash: 'sha256:92c1142529afde29ac338f6da8c7ab8d561979a31def4c8a93c697270f466e49'}
+  - {seq: 15, filename: KR6k0129_015.yaml, hash: 'sha256:a75da03fb0131d0eaf861216b6c935ad3c7d77ef45e278d527fe6e0d85096655'}
+  - {seq: 16, filename: KR6k0129_016.yaml, hash: 'sha256:be52e6c7667469f804642d090824689480954562e86ef28ded3989b08bdca31d'}
+  - {seq: 17, filename: KR6k0129_017.yaml, hash: 'sha256:50314574bc088b8cf9d83191831e8832ef9272e6d0e0bfc8e656103aed1ee231'}
+  markers:
+  - {seq: 2, role: markers, filename: assets/KR6k0129_002.markers.yaml, hash: 'sha256:7c0ac6937d45f3c3473fb297c92bd2b0e52b6bd172ceb9b161e4ddc3c4997a89'}
+  - {seq: 3, role: markers, filename: assets/KR6k0129_003.markers.yaml, hash: 'sha256:4e1b2aadb6c303d50e4a06dcdd7684bbfb6cf2ee837dbf6a01e7f461791239fe'}
+  - {seq: 4, role: markers, filename: assets/KR6k0129_004.markers.yaml, hash: 'sha256:0838bf1c3857a1e62703a66974d9be31fc342f56cad222aeeb9d9a5728a31784'}
+  - {seq: 5, role: markers, filename: assets/KR6k0129_005.markers.yaml, hash: 'sha256:4241eedbb4c8df00d3fd66f722e759dee8dfd61703a8dd74cb1809c86660ed5b'}
+  - {seq: 6, role: markers, filename: assets/KR6k0129_006.markers.yaml, hash: 'sha256:3cb6e63f4bc36b7cd11df893de26c3b5af20a098a1c62f84539053a46503a39f'}
+  - {seq: 7, role: markers, filename: assets/KR6k0129_007.markers.yaml, hash: 'sha256:634061b81d056b3d77127e389ca1d7582511dbdfaa1a86d54b14e631ad9671a3'}
+  - {seq: 8, role: markers, filename: assets/KR6k0129_008.markers.yaml, hash: 'sha256:f2c4e544b2b484cbe98456ddb9ab237337d7e289f18c605c2306401389b94a1e'}
+  - {seq: 9, role: markers, filename: assets/KR6k0129_009.markers.yaml, hash: 'sha256:cf6c784f7df9bd32118f0be92dc823ddb62d23e61529e8e65cb7dde38221b586'}
+  - {seq: 10, role: markers, filename: assets/KR6k0129_010.markers.yaml, hash: 'sha256:9d7cffcc405904985552ae701888ba834aac76f361f0c6b7991f169e3ae9405b'}
+  - {seq: 11, role: markers, filename: assets/KR6k0129_011.markers.yaml, hash: 'sha256:28ce5c34e9ab53e68dfb589fd3a38943a0816b315fee0e0bd48a9b09a675c9da'}
+  - {seq: 12, role: markers, filename: assets/KR6k0129_012.markers.yaml, hash: 'sha256:27853c5fa5190d951be38d6c01a8e83e394925b3dc406c10e46731509e84e483'}
+  - {seq: 13, role: markers, filename: assets/KR6k0129_013.markers.yaml, hash: 'sha256:878852ec28a85e18a5098c2a447276b31f3e0f4794f102ef6d5463da145f9e26'}
+  - {seq: 14, role: markers, filename: assets/KR6k0129_014.markers.yaml, hash: 'sha256:afc7f03e0617c042dddc513c18ff67a295e1e3e7471207c1603800b3b25843f6'}
+  - {seq: 15, role: markers, filename: assets/KR6k0129_015.markers.yaml, hash: 'sha256:8099a3076bb0ba6f10a31126e16c6b64e975fea846bebae4e963cf0f6dd7c0ec'}
+  - {seq: 16, role: markers, filename: assets/KR6k0129_016.markers.yaml, hash: 'sha256:b3a4bcdd53ec4ba113c0ba8b40b15d23aae63e0e366bc5b6b7d4e55a8859d602'}
+  - {seq: 17, role: markers, filename: assets/KR6k0129_017.markers.yaml, hash: 'sha256:76f79be23fb54d869ca9c8eb4235fc2696a9cfe08bd9c33831b27fb95f244dac'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR6k0129_T_001a-1-juan-start
+    span:
+    - body
+    - 0
+    - 33654
+  label: 四分律行事鈔資持記上一上并序
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0129_T_001a-1-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0129_T_001a-1-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0129_T_001a-1-mulu-3
+    span:
+    - body
+    - 1474
+    - 1474
+  label: 釋序題
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0129_T_001a-1-mulu-4
+    span:
+    - body
+    - 4975
+    - 4975
+  label: 釋序文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0129_T_001a-2-juan-start
+    span:
+    - body
+    - 0
+    - 36691
+  label: 四分律行事鈔資持記上一下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0129_T_001a-2-mulu-1
+    span:
+    - body
+    - 349
+    - 349
+  label: 1 釋標宗篇(上一下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0129_T_001a-2-mulu-2
+    span:
+    - body
+    - 10905
+    - 10905
+  label: 2 釋集僧篇(上一下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0129_T_001a-2-mulu-3
+    span:
+    - body
+    - 16851
+    - 16851
+  label: 3 釋足數篇(上一下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0129_T_001a-2-mulu-4
+    span:
+    - body
+    - 22635
+    - 22635
+  label: 4 釋受欲篇(上一下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0129_T_001a-2-mulu-5
+    span:
+    - body
+    - 27939
+    - 27939
+  label: 5 釋羯磨篇(上一下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0129_T_001b-juan-start
+    span:
+    - body
+    - 0
+    - 20810
+  label: 四分律行事鈔資持記上二
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0129_T_001b-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 6 釋結界篇(上二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0129_T_001b-mulu-2
+    span:
+    - body
+    - 9795
+    - 9795
+  label: 7 釋僧網篇(上二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0129_T_001c-juan-start
+    span:
+    - body
+    - 0
+    - 24034
+  label: 四分律行事鈔資持記上三
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0129_T_001c-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 8 釋受戒篇(上三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0129_T_001c-mulu-2
+    span:
+    - body
+    - 16891
+    - 16891
+  label: 9 釋師資篇(上三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0129_T_001d-juan-start
+    span:
+    - body
+    - 0
+    - 32682
+  label: 四分律行事鈔資持記上四
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0129_T_001d-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 10 釋說戒篇(上四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0129_T_001d-mulu-2
+    span:
+    - body
+    - 10720
+    - 10720
+  label: 11 釋安居篇(上四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0129_T_001d-mulu-3
+    span:
+    - body
+    - 23431
+    - 23431
+  label: 12 釋自恣篇(上四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0129_T_002a-1-juan-start
+    span:
+    - body
+    - 0
+    - 21075
+  label: 四分律行事鈔資持記中一上
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0129_T_002a-1-mulu-1
+    span:
+    - body
+    - 117
+    - 117
+  label: 13 釋篇聚篇(中一上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0129_T_002a-1-mulu-2
+    span:
+    - body
+    - 13033
+    - 13033
+  label: 14 釋釋相篇(中一上-三下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0129_T_002a-2-juan-start
+    span:
+    - body
+    - 0
+    - 28797
+  label: 四分律行事鈔資持記中一下
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0129_T_002b-juan-start
+    span:
+    - body
+    - 0
+    - 29138
+  label: 四分律行事鈔資持記中二
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0129_T_002c-1-juan-start
+    span:
+    - body
+    - 0
+    - 17697
+  label: 四分律行事鈔資持記中三上
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0129_T_002c-2-juan-start
+    span:
+    - body
+    - 0
+    - 23286
+  label: 四分律行事鈔資持記中三下
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0129_T_002d-1-juan-start
+    span:
+    - body
+    - 0
+    - 24480
+  label: 四分律行事鈔資持記中四上
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0129_T_002d-1-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 15 釋持犯篇(中四上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0129_T_002d-2-juan-start
+    span:
+    - body
+    - 0
+    - 14733
+  label: 四分律行事鈔資持記中四下
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0129_T_002d-2-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 16 釋懺六聚法篇(中四下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0129_T_003a-juan-start
+    span:
+    - body
+    - 0
+    - 26865
+  label: 四分律行事鈔資持記下一
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6k0129_T_003a-mulu-1
+    span:
+    - body
+    - 36
+    - 36
+  label: 17 釋二衣篇(下一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0129_T_003b-juan-start
+    span:
+    - body
+    - 0
+    - 18845
+  label: 四分律行事鈔資持記下二
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0129_T_003b-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 18 釋四藥篇(下二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0129_T_003b-mulu-2
+    span:
+    - body
+    - 11288
+    - 11288
+  label: 19 釋鉢器篇(下二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6k0129_T_003b-mulu-3
+    span:
+    - body
+    - 15466
+    - 15466
+  label: 20 釋對施篇(下二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0129_T_003c-juan-start
+    span:
+    - body
+    - 0
+    - 30629
+  label: 四分律行事鈔資持記下三
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0129_T_003c-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 21 釋頭陀篇(下三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0129_T_003c-mulu-2
+    span:
+    - body
+    - 5958
+    - 5958
+  label: 22 釋僧像篇(下三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0129_T_003c-mulu-3
+    span:
+    - body
+    - 14936
+    - 14936
+  label: 23 釋計請篇(下三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0129_T_003c-mulu-4
+    span:
+    - body
+    - 20540
+    - 20540
+  label: 24 釋導俗篇(下三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6k0129_T_003c-mulu-5
+    span:
+    - body
+    - 29111
+    - 29111
+  label: 25 釋主客篇(下三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6k0129_T_003d-juan-start
+    span:
+    - body
+    - 0
+    - 25803
+  label: 四分律行事鈔資持記下四
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6k0129_T_003d-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 26 釋瞻病篇(下四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6k0129_T_003d-mulu-2
+    span:
+    - body
+    - 3936
+    - 3936
+  label: 27 釋諸雜篇(下四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6k0129_T_003d-mulu-3
+    span:
+    - body
+    - 8536
+    - 8536
+  label: 28 釋沙彌篇(下四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6k0129_T_003d-mulu-4
+    span:
+    - body
+    - 17699
+    - 17699
+  label: 29 釋尼眾篇(下四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6k0129_T_003d-mulu-5
+    span:
+    - body
+    - 23142
+    - 23142
+  label: 30 釋諸部篇(下四)
+  type: mulu
+  level: 1
+hash: sha256:ebc7b0b415e2b22752033c2d9fcca0d92d4bb05e052e202516ae89ea5c3d7e8a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
